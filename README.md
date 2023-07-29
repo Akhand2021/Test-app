@@ -1,5 +1,3 @@
-# reactnative-login-registration-app
-
 # ReactNative Login Registration using Laravel API
 
 This repository contains a complete application that demonstrates how to implement a login and registration system in a React Native app using a Laravel API as the backend. The project consists of two parts: the Laravel API and the React Native app.
